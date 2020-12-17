@@ -11,7 +11,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="graph" Type="Folder">
-			<Item Name="Control 1.ctl" Type="VI" URL="../graph/Control 1.ctl"/>
+			<Item Name="DysplayGraph.ctl" Type="VI" URL="../graph/DysplayGraph.ctl"/>
+			<Item Name="SetPanelGraphsTableDisplay.vi" Type="VI" URL="../graph/SetPanelGraphsTableDisplay.vi"/>
 		</Item>
 		<Item Name="SubVi" Type="Folder">
 			<Item Name="GetDataFromDevices.vi" Type="VI" URL="../SubVi/GetDataFromDevices.vi"/>
