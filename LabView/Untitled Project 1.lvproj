@@ -12,7 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="graph" Type="Folder">
 			<Item Name="DysplayGraph.ctl" Type="VI" URL="../graph/DysplayGraph.ctl"/>
-			<Item Name="SetPanelGraphsTableDisplay.vi" Type="VI" URL="../graph/SetPanelGraphsTableDisplay.vi"/>
+			<Item Name="SetEnableGraphsTableDisplay.vi" Type="VI" URL="../graph/SetEnableGraphsTableDisplay.vi"/>
 		</Item>
 		<Item Name="SubVi" Type="Folder">
 			<Item Name="GetDataFromDevices.vi" Type="VI" URL="../SubVi/GetDataFromDevices.vi"/>
@@ -22,13 +22,18 @@
 			<Item Name="SettingPanelKEITHLEY2182andKEITHLEY6222.vi" Type="VI" URL="../SubVi/SettingPanelKEITHLEY2182andKEITHLEY6222.vi"/>
 			<Item Name="SettingPanelOtherDivice.vi" Type="VI" URL="../SubVi/SettingPanelOtherDivice.vi"/>
 		</Item>
+		<Item Name="TypeDef" Type="Folder">
+			<Item Name="EnumSelectedModeK2182and6221.ctl" Type="VI" URL="../TypeDef/EnumSelectedModeK2182and6221.ctl"/>
+		</Item>
 		<Item Name="getArrayVisa.vi" Type="VI" URL="../getArrayVisa.vi"/>
 		<Item Name="GetDataOneMeasurement.vi" Type="VI" URL="../SubVi/GetDataOneMeasurement.vi"/>
+		<Item Name="GetParamsVIS_K2182and6221.vi" Type="VI" URL="../SubVi/GetParamsVIS_K2182and6221.vi"/>
 		<Item Name="Keithly user program.lvlib" Type="Library" URL="../Keithley 622x lib/Keithly user program.lvlib"/>
 		<Item Name="ReadFileSettingControl.vi" Type="VI" URL="../ReadFileSettingControl.vi"/>
 		<Item Name="SaveFileSettingControl.vi" Type="VI" URL="../SaveFileSettingControl.vi"/>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Untitled 1.vi" Type="VI" URL="../Untitled 1.vi"/>
+		<Item Name="UpdateGraphsTableDisplay.vi" Type="VI" URL="../graph/UpdateGraphsTableDisplay.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
