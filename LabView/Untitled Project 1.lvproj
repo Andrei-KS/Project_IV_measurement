@@ -25,9 +25,11 @@
 		<Item Name="TypeDef" Type="Folder">
 			<Item Name="EnumSelectedModeK2182and6221.ctl" Type="VI" URL="../TypeDef/EnumSelectedModeK2182and6221.ctl"/>
 		</Item>
+		<Item Name="ClearOutputValuesOfDevices.vi" Type="VI" URL="../graph/ClearOutputValuesOfDevices.vi"/>
 		<Item Name="getArrayVisa.vi" Type="VI" URL="../getArrayVisa.vi"/>
 		<Item Name="GetDataOneMeasurement.vi" Type="VI" URL="../SubVi/GetDataOneMeasurement.vi"/>
 		<Item Name="GetParamsVIS_K2182and6221.vi" Type="VI" URL="../SubVi/GetParamsVIS_K2182and6221.vi"/>
+		<Item Name="InitGraphsTableDisplay.vi" Type="VI" URL="../graph/InitGraphsTableDisplay.vi"/>
 		<Item Name="Keithly user program.lvlib" Type="Library" URL="../Keithley 622x lib/Keithly user program.lvlib"/>
 		<Item Name="ReadFileSettingControl.vi" Type="VI" URL="../ReadFileSettingControl.vi"/>
 		<Item Name="SaveFileSettingControl.vi" Type="VI" URL="../SaveFileSettingControl.vi"/>
