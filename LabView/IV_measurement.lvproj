@@ -38,6 +38,7 @@
 		<Item Name="FrontPanelKEITHLEY2182_KEITHLEY6221.ctl" Type="VI" URL="../TypeDef/FrontPanelKEITHLEY2182_KEITHLEY6221.ctl"/>
 		<Item Name="getArrayVisa.vi" Type="VI" URL="../getArrayVisa.vi"/>
 		<Item Name="Keithly user program.lvlib" Type="Library" URL="../Keithley 622x lib/Keithly user program.lvlib"/>
+		<Item Name="ResetK2182andK6221.vi" Type="VI" URL="../SubVi/ResetK2182andK6221.vi"/>
 		<Item Name="ReverseRow2DArray.vi" Type="VI" URL="../SubVi/ReverseRow2DArray.vi"/>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Untitled 1.vi" Type="VI" URL="../Untitled 1.vi"/>
